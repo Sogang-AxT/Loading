@@ -1,2 +1,2 @@
-# IxD Loading
+# Loading
 Interaction Design Team Project
